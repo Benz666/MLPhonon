@@ -1,0 +1,138 @@
+project:
+  name: algan_mh1_matpes_r2scan
+  root: ${MLPHONON_PROJECT_ROOT}
+  output_root: results
+
+models:
+  mode: single
+  list:
+    - name: mh1_matpes_r2scan
+      type: mace
+      path: ${MACE_MH1_MODEL}
+      head: matpes_r2scan
+
+system:
+  calculation_type: binary_alloy
+  endpoints:
+    A:
+      formula: AlN
+      symbols: [Al, N, Al, N]
+      primitive: ${DFT_PHONON_ROOT}/AlN/mp-661-20180417/relax/structures/POSCAR.prim
+      dft_auto_kappa_root: ${DFT_PHONON_ROOT}/AlN/mp-661-20180417
+      nac_reference: ${DFT_PHONON_ROOT}/AlN/mp-661-20180417/nac
+    B:
+      formula: GaN
+      symbols: [Ga, N, Ga, N]
+      primitive: ${DFT_PHONON_ROOT}/GaN/mp-804/relax/structures/POSCAR.prim
+      dft_auto_kappa_root: ${DFT_PHONON_ROOT}/GaN/mp-804
+      nac_reference: ${DFT_PHONON_ROOT}/GaN/mp-804/nac
+  alloy:
+    formula_template: Al{x}Ga{1-x}N
+    parent: wurtzite
+    mixing_sublattice: cation
+    fractions: [0.125, 0.23, 0.25, 0.375, 0.5, 0.625, 0.75, 0.875]
+    basis_check: true
+
+relaxation:
+  relax_mode: mlip
+  device: gpu
+  fmax: 0.001
+  pressure_relax: true
+
+nac:
+  nac_mode: vasp_relaxed
+  validate_cell_match: true
+  run_vasp: true
+  reference_input_dir: null
+  vasp_command: "mpirun -n ${NSLOTS:-32} vasp_std"
+
+force_constants:
+  fc2: true
+  fc3: true
+  nac: true
+  device: gpu
+  fc2_supercell: [5, 5, 3]
+  fc3_supercell: [5, 5, 3]
+
+banddos:
+  enabled: true
+  use_transport_fc2: true
+  compare_dft: true
+  projected_dos_plot: false
+  tail_mass_fraction: 1.0e-6
+  frequency_margin_fraction: 0.02
+  minimum_margin_cm: 5.0
+
+transport:
+  enabled: true
+  backend: phono3py
+  solver: rta
+  device: cpu
+  temperatures:
+    values: [300]
+  qmesh_default: [16, 16, 10]
+  phono3py:
+    source_result: null
+    output_label: null
+    dft_transport: null
+    plot: true
+    nac: auto
+    nac_method: wang
+    sigma_thz: null
+    isotope: true
+    mass_variances: null
+    use_symmetry: true
+    r0_average: true
+    maximum_imaginary_modes: 0
+
+vca:
+  enabled: true
+  fc2: true
+  fc3: true
+  nac: true
+  masses: true
+  alloy_mass_scattering: true
+  basis_check: true
+
+qmesh_extrapolation:
+  enabled: true
+  meshes:
+    - [12, 12, 8]
+    - [14, 14, 9]
+    - [16, 16, 10]
+    - [18, 18, 11]
+    - [20, 20, 12]
+  formula: kappa_inf_plus_S_over_geometric_q
+  min_mesh_count: 3
+  fit:
+    composition_model: reduced_dagli_fixed_300K
+
+references:
+  enabled: true
+  curves:
+    - label: "Tran et al. (bulk)"
+      path: ${MLPHONON_ROOT}/references/literature/tran_bulk.csv
+      color: "#7fb5dd"
+      linestyle: dashdot
+    - label: "Tran et al. (L=0.5 um)"
+      path: ${MLPHONON_ROOT}/references/literature/tran_0p5um.csv
+      color: "#b9d7eb"
+      linestyle: dashed
+  derived:
+    - label: "Dagli et al."
+      operation: average
+      files:
+        - ${MLPHONON_ROOT}/references/literature/dagli_a_axis.csv
+        - ${MLPHONON_ROOT}/references/literature/dagli_c_axis.csv
+      color: "#c6c6c6"
+      linestyle: dotted
+
+plotting:
+  pdf: false
+  style: algan
+  include_dft_endpoint: true
+  extrapolation_include_literature: false
+
+cleanup:
+  mode: standard
+  delete_patterns: ["_sparse*", "_spaese*"]

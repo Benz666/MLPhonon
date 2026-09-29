@@ -1,0 +1,36 @@
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+build/
+dist/
+*.egg-info/
+
+# Runtime products remain outside the source repository.
+results/
+logs/
+workflow_manifests/
+
+# Large numerical data and model files are distributed separately.
+*.model
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.hdf5
+*.h5
+*.xml
+*.xyz
+POTCAR*
+WAVECAR
+CHGCAR
+vasprun.xml
+
+# Local editor and system files.
+*.swp
+*.swo
+.DS_Store

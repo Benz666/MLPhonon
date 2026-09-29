@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use MLPhonon, please cite this software and the underlying scientific packages."
+title: "MLPhonon"
+type: software
+authors:
+  - family-names: "Ma"
+    given-names: "Benz"
+repository-code: "https://github.com/Benz666/MLPhonon"
+version: 0.1.0
+date-released: 2026-09-28

@@ -1,0 +1,338 @@
+x_Al,kappa_W_mK,label,kind,source_type,reference,note
+0.0026143600,217.5711875117,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0036437500,201.8836345607,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0059108100,175.8682816852,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0064741900,163.0785331917,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0071941200,150.2910452498,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0082415200,141.9044556046,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0112119400,119.7402900319,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0121475200,113.0248787699,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0130660500,107.9183701648,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0191033600,93.1520981216,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0200456000,91.3735852587,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0271911700,80.0408550253,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0318987700,73.4767491408,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0343807800,70.5455090838,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0448836700,64.1976909049,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0459566300,63.5442102707,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0544147700,59.0722485139,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0655326200,54.2809380929,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0681014900,53.2208371135,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0756454600,50.2090601118,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0866020800,46.8184317031,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0889400500,46.1618366782,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.1025366200,42.7203417232,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.1072197400,41.7501367615,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.1193147800,39.6895326579,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.1255969100,38.6820224722,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.1391007800,36.6856478742,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.1429811400,36.1869230200,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.1603675200,34.0607221768,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.1620525400,33.8697514348,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.1777582200,32.4910152238,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.1873786200,31.6271119951,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.1950197700,30.9350175307,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.2116229600,29.6405334101,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.2285334900,28.3238950434,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.2299382300,28.2362458400,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.2473346900,27.1856935746,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.2538595700,26.8021265604,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.2647318600,26.2267050753,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.2791856500,25.5035866251,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.2821308300,25.3729973450,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.2995301700,24.6168369005,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.3045117300,24.4067152537,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.3169302200,23.9355132458,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.3298378100,23.4781418181,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.3343320700,23.3302588414,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.3517332000,22.7470113022,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.3551638900,22.6429641188,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.3691368500,22.2957434809,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.3804899600,22.0340351967,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.3878981700,21.8113649469,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.4008886300,21.4707545224,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.4039500500,21.4289587408,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.4144890000,21.2174868119,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.4213527000,21.0350408211,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.4294009500,20.7851587476,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.4387510900,20.5940355497,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.4542917400,20.4002173261,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.4561565800,20.3668302633,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.4715233800,20.1172673796,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.4749708900,20.0871743445,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.4841915900,20.0339717970,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.4942063500,19.8895218603,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.4973046500,19.8484312005,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.5124161900,19.6340487584,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.5147095900,19.6091529288,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.5321212200,19.5426694108,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.5347035000,19.5090344791,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.5495239500,19.2857607277,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.5601468300,19.2184367719,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.5669351200,19.1831988981,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.5843459000,19.0860283584,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.5862643500,19.0776260676,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.6017578500,19.0672067989,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.6154545200,18.9936709212,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.6191651900,18.9657365702,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.6365741600,18.8638771691,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.6417068000,18.9077740566,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.6539972900,19.1161005128,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.6661470200,19.2025673249,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.6714107400,19.2367334992,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.6888169500,19.2198253383,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.6910641900,19.2250969995,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.7062263700,19.3283575167,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.7168519400,19.4941493932,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.7236443700,19.6144885938,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.7410619300,19.9166596261,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.7423539000,19.9360752584,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.7584772200,20.2916169766,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.7680903500,20.5543299327,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.7758974500,20.7669280939,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.7923984800,21.2983731283,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.7933220700,21.3328315145,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.8092605200,21.9112377913,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.8173648200,22.2695087756,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.8281759700,22.8375590875,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.8426909000,23.5674365122,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.8456033600,23.7591450286,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.8630347100,25.0034773017,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.8680169700,25.3923300744,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.8804703800,26.4661008089,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.8859411600,26.9833860200,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.8973466300,28.4597420963,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9044570300,29.4098122275,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9153527600,31.2530360308,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9236612900,32.8688762902,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9328085800,35.0614083977,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9422040600,37.8058284153,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9446344200,38.6839983153,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9517699400,41.4852963887,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9583795900,45.3341915587,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9601499000,46.6297672198,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9682903100,53.6563210073,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9694795800,54.7506823729,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9748613700,59.6021536908,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9794969400,66.4437062436,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9820589200,70.9619156233,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9857327900,80.3680638960,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9884066800,92.7406886296,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9895517000,102.3576304971,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9898987300,106.1350345830,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9914816100,125.2887072214,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9930227900,150.7758504068,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9930644900,151.4541042259,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9946473700,185.9091321794,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9952048900,208.3042035587,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9954388100,220.0926917823,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9960952700,243.2043340007,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9969698300,274.3457696703,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.9981461200,336.2390306275,Dagli et al.,line,user_digitized_axis_average,Dagli et al.; user digitized a-axis and c-axis curves,kappa_avg=(2*kappa_a+kappa_c)/3; c-axis interpolated with a-axis digitized points on union grid within common x range.
+0.0012187700,55.2708639881,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0021557400,51.1985580896,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0034942700,47.8853952788,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0048328100,44.7866339712,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0061713400,41.6291456727,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0072421700,36.8736051465,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0079114300,39.0312137002,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0103016700,34.2869648321,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0137436100,31.3889580472,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0158087700,29.2971721283,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0190977400,27.3217961838,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0233045500,25.4708458733,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0267847400,23.7652696887,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0311445300,22.2681952884,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0355425700,20.8271750870,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0413747400,19.5951741164,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0487366700,18.2244270086,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0554293300,17.1365582507,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0627912600,16.0963885173,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0708224600,15.1220534785,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0795229200,14.2375056848,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0895619100,13.4318430595,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.1002701700,12.6511992014,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.1123169600,11.9342748713,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.1257022900,11.2609906335,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.1397568800,10.6598668858,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.1544807400,10.1462174258,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.1692045900,9.6926235847,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.1839284500,9.3022057674,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.1986523100,8.9492588465,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.2133761700,8.6411789035,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.2281000200,8.3782830719,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.2428238800,8.1392106512,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.2575477400,7.9358663838,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.2722716000,7.7357201840,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.2869954500,7.5718719873,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.3017193100,7.4132974705,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.3164431700,7.2792633375,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.3311670200,7.1407005556,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.3458908800,7.0355162585,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.3606147400,6.9251392007,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.3753386000,6.8364223194,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.3900624500,6.7587001440,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.4047863100,6.6786113014,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.4195101700,6.5959552359,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.4392138900,6.5444479183,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.4623432100,6.4675520782,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.4770670600,6.4502678358,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.4917909200,6.4095975691,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.5065147800,6.3940235287,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.5212386400,6.3769357880,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.5359624900,6.3769357880,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.5506863500,6.3893586999,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.5654102100,6.3769357880,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.5801340600,6.3909132646,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.5948579200,6.4018058129,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.6089125100,6.4541920122,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.6283212300,6.4927755063,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.6430450900,6.5292066239,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.6577689500,6.5834360947,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.6724928100,6.6413465481,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.6872166600,6.7160851481,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.7019405200,6.8048956671,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.7166643800,6.8999144838,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.7313882300,7.0269636112,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.7461120900,7.1528710268,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.7608359500,7.3040977530,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.7728827400,7.4249003087,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.8112818900,8.0622876441,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.8264240400,8.3160869275,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.8396420500,8.5882613349,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.8558717500,9.0257839721,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.8708824400,9.4036197587,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.8858032200,9.9019020443,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9013818600,10.8281115852,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9127593800,11.6301439674,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9221291100,12.3336302842,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9301603100,13.0932185189,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9375222400,13.9082690439,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9442149000,14.8308331955,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9506844700,15.7343883084,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9570265700,16.8713454007,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9616158200,17.9389485560,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9668212200,19.3658029196,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9714511000,21.1209912144,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9755023400,22.9641387316,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9801640600,25.4659777093,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9816938100,27.3866311156,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9837016100,29.4964606807,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9866655000,32.3019614031,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9883864700,34.1430842326,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9893425600,36.3661341887,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9910635300,40.3859152294,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9920196300,44.7558258757,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9924020700,48.8692519600,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9930713300,51.6596017251,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9937406000,56.0153667973,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9944098700,64.4934565651,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9957484000,60.0515226334,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9961499600,71.0030288972,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9970869300,76.7634705434,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.9993624400,92.7887851892,Tran et al. (L=0.5um),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized L=0.5 um model curve.
+0.0012187700,135.6922283235,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0027803900,115.3197633369,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0029588600,124.9483676825,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0045651000,108.4843669551,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0067525400,99.6700321111,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0072204400,92.5613418419,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0085807000,86.4905647944,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0094730500,81.3438155782,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0114808500,75.8277055341,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0139348300,70.0733868718,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0177592100,64.7239830295,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0231133400,57.4466805856,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0273201500,53.1435860806,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0319094100,49.7172258824,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0361162200,46.6958760042,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0418766900,43.8644235320,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0482012600,41.3095441125,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0560986000,38.6673495739,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0627912600,36.7258893672,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0672066600,35.1630709496,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0741687900,33.9998074084,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0842077800,32.0835134717,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0929082400,30.6443511131,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.0996443500,29.4438852682,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.1096399000,28.4245108234,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.1236944900,26.8810092606,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.1384183500,25.5484192282,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.1531422000,24.4121972106,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.1678660600,23.4630996045,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.1825899200,22.6003298867,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.1973137800,21.8648212710,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.2120376300,21.2047725178,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.2267614900,20.6297894994,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.2414853500,20.1143894672,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.2562092100,19.6357357884,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.2709330600,19.2245128677,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.2856569200,18.8356437618,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.3003807800,18.4905921073,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.3151046300,18.1783762665,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.3298284900,17.9106042580,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.3445523500,17.6296128240,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.3592762100,17.4122324807,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.3740000600,17.1766265364,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.3887239200,16.9978808969,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.4034477800,16.8209953434,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.4181716400,16.6581036184,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.4328954900,16.5168678569,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.4476193500,16.3887861786,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.4623432100,16.2973414086,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.4770670600,16.1827683829,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.4917909200,16.0963885173,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.5065147800,16.0533716420,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.5212386400,16.0026817064,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.5359624900,15.9250095520,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.5506863500,15.9250095520,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.5654102100,15.9250095520,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.5801340600,15.9250095520,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.5948579200,15.9250095520,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.6095817800,15.9560330713,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.6243056400,16.0182615385,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.6390294900,16.0963885173,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.6537533500,16.1473752777,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.6684772100,16.2735702809,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.6832010700,16.3887861786,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.6979249200,16.5369708420,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.7126487800,16.6864953663,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.7273726400,16.8783829618,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.7420964900,17.1140609289,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.7568203500,17.3699242377,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.7715442100,17.6596603934,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.7862680700,18.0023398900,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.8009919200,18.3963684584,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.8157157800,18.8356437618,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.8304396400,19.3747563235,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.8451634900,20.0070235198,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.8598873500,20.7404974661,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.8746112100,21.6372887311,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.8893350700,22.7271408748,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9027203900,23.9326206706,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9147671800,25.3311221843,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9261447100,26.9522204345,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9355144400,28.6280760593,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9435456300,30.3505495833,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9509075600,32.3810900245,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9582694900,34.4182914553,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9636236200,36.8366205951,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9683084800,39.5040746942,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9723240800,42.2938908503,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9763396800,45.2443893149,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9791753800,48.2308767672,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9820762500,51.6941739813,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9851900800,57.1430275666,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9881416600,63.9203939125,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9910635300,71.2218728359,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9928265200,78.1178564667,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9954441900,91.6312855079,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9955361700,97.7076886053,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9959606300,103.3273690588,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9964502500,124.8604076344,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9966298900,112.9132088255,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9970869300,131.1844547440,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9977562000,142.9131957489,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9984254600,169.7506626083,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9990947300,242.8902674454,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.
+0.9993921800,321.5249868795,Tran et al. (bulk),line,user_digitized_curve,Tran et al.; user digitized curve,User digitized bulk model curve.

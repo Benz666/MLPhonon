@@ -1,0 +1,44 @@
+datasets:
+  - id: dagli_a_axis
+    file: dagli_a_axis.csv
+    label: Dagli et al. (a axis)
+    columns: [al_fraction, thermal_conductivity_W_mK]
+    temperature_K: 300
+    data_type: digitized_curve
+  - id: dagli_c_axis
+    file: dagli_c_axis.csv
+    label: Dagli et al. (c axis)
+    columns: [al_fraction, thermal_conductivity_W_mK]
+    temperature_K: 300
+    data_type: digitized_curve
+  - id: tran_bulk
+    file: tran_bulk.csv
+    label: Tran et al. (bulk)
+    columns: [al_fraction, thermal_conductivity_W_mK]
+    temperature_K: 300
+    data_type: digitized_model_curve
+    citation: >-
+      Dat Q. Tran, Rosalia D. Carrascon, Motoaki Iwaya, Bo Monemar,
+      Vanya Darakchieva, and Plamen P. Paskov, Thermal conductivity of
+      AlxGa1-xN epitaxial layers.
+  - id: tran_0p5um
+    file: tran_0p5um.csv
+    label: Tran et al. (L=0.5 um)
+    columns: [al_fraction, thermal_conductivity_W_mK]
+    temperature_K: 300
+    thickness_um: 0.5
+    data_type: digitized_model_curve
+    citation: >-
+      Dat Q. Tran, Rosalia D. Carrascon, Motoaki Iwaya, Bo Monemar,
+      Vanya Darakchieva, and Plamen P. Paskov, Thermal conductivity of
+      AlxGa1-xN epitaxial layers.
+  - id: algan_benchmark_300K
+    file: algan_benchmark_300K.csv
+    label: Normalized literature comparison table
+    columns: [x_Al, kappa_W_mK, label, kind]
+    temperature_K: 300
+    data_type: derived_plotting_table
+notes:
+  - The CSV files contain numerical coordinates digitized from published curves.
+  - The Dagli comparison used by MLPhonon is the pointwise average of the
+    a-axis and c-axis curves after interpolation to a common composition grid.
