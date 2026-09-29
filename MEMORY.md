@@ -29,3 +29,17 @@
 Numerical results and restart assets are stored outside Git and referenced by
 release manifests. JAX-BTE is not part of the MLPhonon source package; a
 selected device case may be distributed as an independent archive.
+
+## Reference Release
+
+- Release date: 2026-09-28.
+- DFT endpoint sources: auto-kappa 1.0.0 calculations for AlN
+  `mp-661-20180417` and GaN `mp-804`.
+- Bundled auto-kappa source tag: `v1.0.0`, commit
+  `880cdc3fbea28eae3907f0b8b32ed3a737736b9f`.
+- MLIP numerical release: phono3py endpoint and aligned VCA results at 300 K,
+  including the five-mesh extrapolation ladder.
+- Compact releases exclude model weights, POTCAR files, electronic-structure
+  scratch files, sparse transport caches, and finite-displacement IFC caches.
+- Device transport remains an independent package sourced from
+  `Benz666/gan_hemt_bte` commit `5a70229`.

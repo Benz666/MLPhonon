@@ -67,6 +67,9 @@ The individual scientific stages are exposed as Python entry points under
 clusters without embedding a scheduler in the package. Complete command
 sequences are given in [`docs/usage.md`](docs/usage.md).
 
+The source and numerical release layout is described in
+[`docs/release.md`](docs/release.md).
+
 ## Data Policy
 
 The Git repository contains source code, configuration, documentation, and
